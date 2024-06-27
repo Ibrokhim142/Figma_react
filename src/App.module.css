@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+ max-width: 1440px;
+ width: 100%;
+ margin: 0 auto;
+}
+.cardOne{
+  max-width: 923px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px 0;
+}
+.DashboardCard{
+  max-width: 1309px;
+  width: 100%;
+  min-height: 600px;
+  display: flex;
+ justify-content: center;
+ align-items: center; 
+}
